@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Unifont'; 
+    src: url('https://github.com/TsavyPrince/anemptyworld/raw/master/unifont-12.0.01.ttf'); 
+    font-family: 'Unifont Upper';
+    src: url('https://github.com/TsavyPrince/anemptyworld/raw/master/unifont_upper-12.0.01.ttf');
+    font-family: 'Unifont CSUR';
+    src: url('https://github.com/TsavyPrince/anemptyworld/raw/master/unifont_csur-12.0.01.ttf')
+}
